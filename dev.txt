@@ -1,3 +1,2 @@
 this is dev file
 and it is changed
-for testing automerge with lock
